@@ -1,6 +1,7 @@
 ## YIGO的博客
 
-You can use the [editor on GitHub](https://github.com/yigocc/yigocc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+盛年不重来，一日难再晨。及时当勉励，岁月不待人。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
