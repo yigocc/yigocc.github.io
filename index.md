@@ -3,7 +3,7 @@
 
 盛年不重来，一日难再晨。及时当勉励，岁月不待人。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+人不光是靠他生来就拥有一切，而是靠他从学习中所得到的一切来造就自己。
 
 ### Markdown
 
